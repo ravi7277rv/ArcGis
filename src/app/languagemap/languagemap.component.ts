@@ -46,7 +46,7 @@ export class LanguagemapComponent implements OnInit {
     this.map = new Map({
       basemap: {
         style:{
-          id:"argis/outdoor",
+          id:"arcgis/outdoor",
           language:"es"
         }
       }
