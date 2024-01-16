@@ -1,0 +1,17 @@
+.container{
+    width: 100%;
+    min-height: 500px;
+}
+.row{
+    width: 100%;
+    height: 100px;
+}
+.heading{
+    width: 25%;
+    border: 1px solid salmon;
+    padding: 5px;
+}
+.viewmap{
+    width: 100%;
+    min-height: 500px;
+}
